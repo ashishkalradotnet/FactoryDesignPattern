@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{B52D59D9-175C-4D99-8B5E-9A2C9A0F3FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{B52D59D9-175C-4D99-8B5E-9A2C9A0F3FED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{C2DD4C02-88F0-4BAA-9950-4E7056941D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{C2DD4C02-88F0-4BAA-9950-4E7056941D2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPatternFromYouTubeChannel", "FactoryDesignPatternFromYouTubeChannel\FactoryDesignPatternFromYouTubeChannel.csproj", "{4DBCFFDE-657A-4021-B0B3-300E37EDD8DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDesignPatternFromYouTubeChannel", "FactoryDesignPatternFromYouTubeChannel\FactoryDesignPatternFromYouTubeChannel.csproj", "{4DBCFFDE-657A-4021-B0B3-300E37EDD8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{7BCE8542-4075-4C5C-AE39-C4BFD5525836}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4DBCFFDE-657A-4021-B0B3-300E37EDD8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DBCFFDE-657A-4021-B0B3-300E37EDD8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DBCFFDE-657A-4021-B0B3-300E37EDD8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCE8542-4075-4C5C-AE39-C4BFD5525836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCE8542-4075-4C5C-AE39-C4BFD5525836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCE8542-4075-4C5C-AE39-C4BFD5525836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCE8542-4075-4C5C-AE39-C4BFD5525836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
