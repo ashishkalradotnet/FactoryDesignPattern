@@ -1,1 +1,1 @@
-# FactoryDesignPatternPOC
+# FactoryDesignPattern
